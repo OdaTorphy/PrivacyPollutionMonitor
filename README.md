@@ -99,15 +99,12 @@ Experience the future of private environmental monitoring:
 
 Watch our comprehensive demonstration showcasing the privacy-preserving environmental monitoring capabilities:
 
-*[Demo video link will be available soon - showcasing wallet connection, station registration, encrypted reporting, and real-time monitoring features]*
+*[PrivacyPollutionMonitor.mp4 available showcasing wallet connection, station registration, encrypted reporting, and real-time monitoring features]*
 
-## 📸 On-Chain Transaction Evidence
 
-Our platform maintains complete transparency of system operations while preserving data privacy:
+### Demo
 
-### Transaction Screenshots
-
-*[Transaction screenshots will be added showing:]*
+*[PrivacyPollutionMonitor.png will be added showing:]*
 - Station registration transactions
 - Encrypted pollution report submissions
 - Threshold configuration updates
